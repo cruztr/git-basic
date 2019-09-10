@@ -3,3 +3,9 @@
 Update on newfile
 
 1st comment for pull
+
+Question:
+What is the difference between add, commit, and push?
+- Add is to put specific changes on the Staging process.
+- Commit is to apply the changes to the local branch in the local repository
+- Push is to apply the changes made locally to the remote repository
